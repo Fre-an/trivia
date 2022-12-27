@@ -1,6 +1,6 @@
 # Trivia game https://frensi-trivia.netlify.app/
 
-This website hosts a Trivia game with question from the Open Trivia Database API
+This website hosts a Trivia game with question from the Open Trivia Database API (https://opentdb.com/)
 
 ### This project helped me learn and practice:
 > - React.js Hooks (State/Effect)
