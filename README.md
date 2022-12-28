@@ -4,7 +4,7 @@ This website hosts a Trivia game with question from the Open Trivia Database API
 
 ### This project helped me learn and practice:
 > - React.js Hooks (State/Effect)
-> - JSX, API calls, props, mapping data, conditional rendering
+> - JSX, fetching data from API, props, mapping data, conditional rendering
 > - HTML, CSS etc.
 
 (React.js, JavaScript, HTML, CSS)
